@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -51,4 +50,4 @@ github: true
 content_rating:
   adult: false
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b4dfad1-22a5-43ad-852a-293350f35be1.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/630b7906-eb0b-43cc-8495-78ce4af778c3.png
