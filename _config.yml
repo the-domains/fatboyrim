@@ -1,0 +1,27 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: FatBoyRim
+layout_spectrum: 0.3974384390749037
+typography_spectrum: 0.9165184206794947
+color:
+  brandStrength: 0.6747720611747354
+  lightness: 0.15531102288514376
+  saturation: 0.3159541580826044
+  rhythmicContrast: 0.5939451633021235
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+content: []
+title: Fat Boy Rim
+description: ''
+github: true
+content_rating:
+  adult: false
