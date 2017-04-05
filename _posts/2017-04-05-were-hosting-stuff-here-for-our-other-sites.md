@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Trying out crazy experimental stuff out too…
-dateModified: '2017-04-05T11:41:47.939Z'
-datePublished: '2017-04-05T11:41:48.594Z'
+dateModified: '2017-04-05T11:46:28.237Z'
+datePublished: '2017-04-05T11:46:28.809Z'
 title: We’re hosting stuff here for use on our other sites
 author: []
 publisher: {}
